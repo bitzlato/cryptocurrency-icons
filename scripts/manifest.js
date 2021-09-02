@@ -93,6 +93,8 @@ const overrides = new Map([
 	['XPR', 'Proton'],
 	['SKL', 'SKALE Network'],
 	['SPACEHBIT', 'HashBit Blockchain'],
+	['MCR', 'Monolith CryptoRuble'],
+	['MDT', 'MonolithosDAO Token'],
 ]);
 
 const icons = manifest.map(icon => {

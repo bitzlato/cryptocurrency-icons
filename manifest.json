@@ -1230,6 +1230,11 @@
 		"color": "#103f68"
 	},
 	{
+		"symbol": "MCR",
+		"name": "Monolith CryptoRuble",
+		"color": "#0099ff"
+	},
+	{
 		"symbol": "MDA",
 		"name": "Moeda Loyalty Points",
 		"color": "#01a64f"
@@ -1238,6 +1243,11 @@
 		"symbol": "MDS",
 		"name": "MediShares",
 		"color": "#1e252c"
+	},
+	{
+		"symbol": "MDT",
+		"name": "MonolithosDAO Token",
+		"color": "#0099ff"
 	},
 	{
 		"symbol": "MED",
