@@ -6,10 +6,7 @@
 	"repository": "atomiclabs/cryptocurrency-icons",
 	"homepage": "http://cryptoicons.co",
 	"files": [
-		"32",
-		"32@2x",
-		"128",
-		"svg",
+		"svg/color/*",
 		"manifest.json"
 	],
 	"keywords": [
@@ -55,5 +52,6 @@
 		"hooks": {
 			"pre-commit": "npm run manifest && npm run clean"
 		}
-	}
+	},
+	"packageManager": "yarn@3.1.1"
 }
